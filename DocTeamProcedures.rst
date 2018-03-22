@@ -4,6 +4,8 @@
 Doc team procedures
 *******************
 
+This is a first try.
+
 =================================================================
 How to swim in the deep water - A lone writer’s guide to survival
 =================================================================
