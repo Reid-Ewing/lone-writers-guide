@@ -5,11 +5,11 @@
 
 Tested a table with Markdown. Did not format. Testing again in RST.
 
-================  ===============
-Column1 Header    Column2 Header
-================  ===============
-Line1 col1 cell1  Line1 col2 cell2
-Line2 col1 cell1  Line2 col2 cell2
-================  ================
+=================  ================
+Column1 Header     Column2 Header
+=================  ================
+Line1 col1 cell1   Line1 col2 cell2
+Line2 col1 cell1   Line2 col2 cell2
+=================  =================
 
 Next text block.
